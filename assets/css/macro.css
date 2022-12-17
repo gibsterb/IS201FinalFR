@@ -1,0 +1,47 @@
+body{
+    background-color: lightcoral;
+}
+
+.pros{
+    color: lightblue;
+    font-size: 20px;
+    border: 1cm;
+    border: dotted;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.macropro{
+    background-color: black;
+    font-size: 25px;
+    color: yellowgreen;
+    padding-left: 25%;
+    padding-right: 25%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.TOP{
+    background-color: black;
+    color: yellowgreen;
+    padding-left: 25%;
+    padding-right: 25%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.video{
+    color: lightblue;
+    font-size: 20px;
+    border: 1cm;
+    border: dotted;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.tableau{
+    background-color: black;
+    font-size: 25px;
+    color: yellowgreen;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 15%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
